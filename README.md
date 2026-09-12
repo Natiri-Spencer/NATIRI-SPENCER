@@ -14,8 +14,6 @@ Building practical tools that solve actual problems. Based in Kakamega, Kenya.
 ## Current Projects
 smp-tracker: Daily performance tracker with ML-powered coaching
 
-[Download api_dashboard_project.py](api_dashboard_project.py)
-
 
 api-dashboard: Multi-endpoint data dashboard with pandas reports
 
