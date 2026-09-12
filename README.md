@@ -1,37 +1,18 @@
-# SMP Tracker
+# Natiri Spencer | Python Developer | Automation & AI Tools
 
-A daily performance tracker for the Self-Made Protocol (SMP) fitness program.
-Logs sleep, water intake, and step count. Predicts goal achievement using a
-trained Random Forest classifier and generates a coaching message.
+Building practical tools that solve actual problems. Based in Kakamega, Kenya.
 
-## What It Does
+## What I Build
+-Data pipelines and automation scripts in Python
+-REST APIs with FastAPI and Flask
+-Machine learning tools for fitness and performance tracking
+-Browser-based tools with JavaScript and the Fetch API
 
-- Accepts daily check-in data (sleep hours, water glasses, steps)
-- Predicts whether the 10,000-step goal will be hit
-- Returns a confidence score and a direct coaching message
-- Exports a weekly summary report as JSON
+## Current Projects
+smp-tracker: Daily performance tracker with ML-powered coaching
+api-dashboard: Multi-endpoint data dashboard with pandas reports
+browser-coach: Client-side AI coaching tool in JavaScript
 
-## Setup
-
-```bash
-pip install -r requirements.txt
-```
-
-## Usage
-
-```python
-from tracker import analyze_day
-
-result = analyze_day(sleep_hr=7.5, water_glasses=9, bench_kg=88)
-print(result["coaching"])
-```
-
-## Sample Output
-
-```
-Prediction: HIT GOAL (88% confidence)
-Coach: Strong inputs, strong output. Baseline is locked in. Keep this pattern consistent.
-```
 
 ## Stack
 
