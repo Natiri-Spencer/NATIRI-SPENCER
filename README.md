@@ -1,12 +1,13 @@
-NATIRI SPENCER| Python Developer | Automation & AI Tools
+NATIRI SPENCER | Python Developer | Automation & AI Tools
 
 Building practical tools that solve actual problems. Based in Kakamega, Kenya.
 
 What I Build
-Data pipelines and automation scripts in Python
-REST APIs with FastAPI and Flask
-Machine learning tools for fitness and performance tracking
-Browser-based tools with JavaScript and the Fetch API
+-Data pipelines and automation scripts in Python
+-REST APIs with FastAPI and Flask
+-Machine learning tools for fitness and performance tracking
+-Browser-based tools with JavaScript and the Fetch API
+
 Current Projects
 smp-tracker: Daily performance tracker with ML-powered coaching
 api-dashboard: Multi-endpoint data dashboard with pandas reports
