@@ -23,4 +23,4 @@ browser-coach: Client-side AI coaching tool in JavaScript
 
 ## Stack
 
-Python, scikit-learn, pandas, FastAPI
+Python | scikit-learn | pandas | FastAPI | Flask | JavaScript
